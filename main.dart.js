@@ -60480,7 +60480,7 @@ A.a1r.prototype={
 K(){return"Flavor."+this.b}}
 A.E8.prototype={
 gwP(){switch(this.a.a){case 0:return"https://dev.birdnestpg.in/"
-case 1:return"https://server.birdnestpg.in/"
+case 1:return"https://api.birdnestpg.in/"
 case 2:return"http://localhost:5051/"
 case 3:return"http://192.168.79.212:5051/"}}}
 A.pM.prototype={}
@@ -141872,7 +141872,7 @@ B.i3=new A.zx(3,"high")
 B.Q=new A.N(0,0)
 B.TS=new A.a1m(B.Q,B.Q)
 B.TT=new A.a1r(0,"development")
-B.TU=new A.a1r(1,"production")
+B.TU=new A.a1r(2,"localWeb")
 B.nM=new A.EF(1)
 B.cY=new A.a1s(0,"tight")
 B.c9=new A.a1s(1,"loose")
